@@ -1,5 +1,0 @@
-C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.exe
-C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.dll
-C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.deps.json
-C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.runtimeconfig.json
-C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.pdb
