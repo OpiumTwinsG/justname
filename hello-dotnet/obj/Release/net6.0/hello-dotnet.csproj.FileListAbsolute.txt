@@ -1,0 +1,15 @@
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.exe
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.deps.json
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.runtimeconfig.json
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.dll
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\bin\Release\net6.0\hello-dotnet.pdb
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.csproj.AssemblyReference.cache
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.AssemblyInfoInputs.cache
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.AssemblyInfo.cs
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.csproj.CoreCompileInputs.cache
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.dll
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\refint\hello-dotnet.dll
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.pdb
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\hello-dotnet.genruntimeconfig.cache
+C:\vuses\Vus_Spbgu\alg\C#\hello-dotnet\hello-dotnet\obj\Release\net6.0\ref\hello-dotnet.dll
